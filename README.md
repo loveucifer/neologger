@@ -6,6 +6,12 @@
 
 A nutrition tracking app
 
+<p align="center">
+  <img src="assets/images/neologger1.png" alt="Ledge Screenshot 1" width="300" style="margin-right:10px;"/>
+  &nbsp;&nbsp;
+  <img src="assets/images/neologger2.png" alt="Ledge Screenshot 2" width="300"/>
+</p>
+
 ## Features
 
 - **Food Database**: Pre-loaded with 542+ Indian foods from the IFCT2017 database
